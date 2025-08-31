@@ -1,12 +1,12 @@
-# Project Obscura
+# Project Epika
 
 ## Overview
 
-Project Obscura is an open-source initiative currently in the planning and conceptualization phase. Its mission is to create a scalable, accessible, and impactful platform for writers and artists in the fields of manga, manhwa, manhua, and storytelling. The platform is envisioned to act as both a creative hub and a social ecosystem where creators can share work, collaborate on projects, and build communities without financial barriers.
+Project Epika is an open-source initiative currently in the planning and conceptualization phase. Its mission is to create a scalable, accessible, and impactful platform for writers and artists in the fields of manga, manhwa, manhua, and storytelling. The platform is envisioned to act as both a creative hub and a social ecosystem where creators can share work, collaborate on projects, and build communities without financial barriers.
 
-Unlike existing platforms that focus either narrowly on artwork or on fragmented communities, Project Obscura intends to integrate the entire creative workflow into one seamless experience. Writers, illustrators, and readers will coexist in a collaborative environment designed for growth, discovery, and long-term sustainability.
+Unlike existing platforms that focus either narrowly on artwork or on fragmented communities, Project Epika intends to integrate the entire creative workflow into one seamless experience. Writers, illustrators, and readers will coexist in a collaborative environment designed for growth, discovery, and long-term sustainability.
 
-It is important to note that all details outlined in this document are subject to change as the project evolves. Project Obscura is not yet finalized in scope, branding, or implementation.
+It is important to note that all details outlined in this document are subject to change as the project evolves. Project Epika is not yet finalized in scope, branding, or implementation.
 
 ---
 
@@ -49,7 +49,7 @@ Estimated time for an MVP release is 6 to 9 months with a small development team
 
 ## Legal and Compliance
 
-Project Obscura will strictly comply with applicable intellectual property laws, including copyright and DMCA regulations.
+Project Epika will strictly comply with applicable intellectual property laws, including copyright and DMCA regulations.
 
 * **User Content Ownership**: All rights to uploaded creative works remain with the original creators.
 * **Licensing**: The project codebase will be released under an open-source license (MIT or Apache 2.0, subject to confirmation).
@@ -61,7 +61,7 @@ Project Obscura will strictly comply with applicable intellectual property laws,
 
 ## Current Status
 
-Project Obscura is currently in the planning phase. The technical stack, feature list, and legal framework are being actively researched and refined. No elements of the platform are finalized, and all details in this document are subject to change. Contributions are welcome for brainstorming, architecture design, and research.
+Project Epika is currently in the planning phase. The technical stack, feature list, and legal framework are being actively researched and refined. No elements of the platform are finalized, and all details in this document are subject to change. Contributions are welcome for brainstorming, architecture design, and research.
 
 ---
 
@@ -81,7 +81,7 @@ Contribution guidelines and a code of conduct will be published once active deve
 
 ## License
 
-Project Obscura will be licensed under an open-source license (currently planned as MIT or Apache 2.0). This ensures transparency, free access, and long-term sustainability. All branding, naming, and future business expansions are reserved by the project founders.
+Project Epika will be licensed under an open-source license (currently planned as MIT or Apache 2.0). This ensures transparency, free access, and long-term sustainability. All branding, naming, and future business expansions are reserved by the project founders.
 
 ---
 
